@@ -1,2 +1,2 @@
 # Electric-Labs
-Cool Game about a Cool Lab
+A puzzle game about getting lost in a lab and solving puzzles to find the way out.
