@@ -1,2 +1,2 @@
 # Electric-Labs
-Cool Game about Cool Lab
+Cool Game about a Cool Lab
